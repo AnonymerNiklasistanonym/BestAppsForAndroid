@@ -26,6 +26,7 @@ Supported tags (always in this order):
 ## Pictures
 
 - [LeafPic Gallery [BETA] (Unreleased)](https://play.google.com/store/apps/details?id=org.horaapps.leafpic): `open source` `~20MB`<br>A material-designed alternative picture/video gallery
+- [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed): `sdcard` `~30MB`<br>A photo editor
 
 ## Internet Browser
 
